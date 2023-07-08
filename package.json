@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "streamlit run app.py"
+  },
+  "dependencies": {
+    "streamlit": "^1.4.0"
   }
-}
-"dependencies": {
-  "streamlit": "^1.4.0"
 }
