@@ -5,6 +5,6 @@
     "start": "streamlit run app.py"
   },
   "dependencies": {
-    "streamlit": "^1.4.0"
+    "streamlit": "*"
   }
 }
